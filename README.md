@@ -5,4 +5,4 @@ Benchmark in Python: [Python](Python)
 
 Benchmark in MATLAB: [MATLAB](MATLAB)
 
-Basic and extended structure of the mathematical model: [click here](Basic_and_extended_structure_of_the_mathematical_model.pdf)
+Basic and extended structure of the mathematical model: [click here](Supplementary_material.pdf)
