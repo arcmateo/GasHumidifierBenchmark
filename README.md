@@ -7,8 +7,8 @@ Benchmark in MATLAB: [MATLAB](MATLAB)
 
 Basic and extended structure of the mathematical model: [click here](Supplementary_material.pdf)
 
-# License
+## License
 This project is covered under the MIT License.
 
-# Reference
+## Reference
 If you found this model useful, please cite: [doi.org/10.1007/978-3-031-76312-0_5](https://doi.org/10.1007/978-3-031-76312-0_5) 
